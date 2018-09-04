@@ -1,6 +1,14 @@
+## CMake
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
 Makefile
 cmake_install.cmake
 install_manifest.txt
+
+## CLion
+cmake-build-debug
+CMakeLists.txt
+
+## IDEA
+.idea
